@@ -10,7 +10,7 @@ Proyek ini dikembangkan untuk memenuhi tugas mata kuliah Kecerdasan Buatan (Arti
 
 - Fatih Maulana (F1G125031)
 - Cinta Aprianti Hartono Haris (F1G125028)
-- Waode Nur Aisya (F1G125019)
+- Wa ode Nur Aisya (F1G125019)
 
 **Program Studi:** Ilmu Komputer
 
